@@ -1,6 +1,5 @@
 scipy
 matplotlib
 numpy
-itertools 
 numba
 pandas
