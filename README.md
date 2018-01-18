@@ -1,5 +1,4 @@
-# Student project for the course Advanced Solid State Physics at Graz
-# University of Technology
+# Student project for the course Advanced Solid State Physics at Graz University of Technology
 
 The project calculates the density of states for silicon close to the
 valanceband edge.
